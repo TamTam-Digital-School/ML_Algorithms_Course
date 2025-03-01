@@ -9,7 +9,8 @@ This is the public repository for the ML Algorithms Course by Ken Jee and Jeff L
 - [Classification Project - Kaggle](https://www.kaggle.com/code/kenjee/exhaustive-classification-parameter-tuning)
 
 ## Flashcards
-Please go to Ankiweb.net to download Anki and to sign up for account. Please go [here](https://github.com/PlayingNumbers/ML_Algorithms_Course/blob/main/365_Data_Science_ML_Algorithms_A_to_Z.apkg) to download the flashcards for this course.
+Please go to Ankiweb.net to download Anki and to sign up for account. Please go [here]
+(https://github.com/TamTam-Digital-School/ML_Algorithms_Course/blob/c4f4760cb25bee038cff2eff764bf38682010fb7/ML%20Algorithms%20A%20to%20Z.apkg) to download the flashcards for this course.
 
 ## 1. Linear Regression
 - [Linear Regression, Clearly Exlplained!!! by StatQuest](https://www.youtube.com/watch?v=nk2CQITm_eo&ab_channel=StatQuestwithJoshStarmer)
